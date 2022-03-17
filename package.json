@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3",
+    "redis": "^4.0.4"
+  },
+  "name": "redis-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
